@@ -26,4 +26,4 @@
     (C) Stop making 'xxl' pizzas, because people rarely buy it.
 
  6. Dashboard preview:
-    https://github.com/Kunal-9717/Project_Pizza_Sales/blob/main/Pizza%20Project%20Power%20bi.png
+    ![Dashboard preview].(
