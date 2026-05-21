@@ -20,10 +20,10 @@
        QUANTITY: 'The Classic Deluxe Pizza' contributes to maximum Total Quantities.
        TOTAL ORDERS: 'The Classic Deluxe Pizza' contributes to maximum Total Orders.
 
- 6. Key insights:
+ 5. Key insights:
    - (A) We have to stop the production of 'The Brie Carre Pizza'.
    - (B) We should have enough active employees in July & January.
    - (C) Stop making 'xxl' pizzas, because people rarely buy it.
 
- 7. Dashboard preview:
+ 6. Dashboard preview:
     ![Dashboard preview](https://github.com/Kunal-9717/Project_Pizza_Sales/blob/main/Pizza%20Project%20Power%20bi.png)
